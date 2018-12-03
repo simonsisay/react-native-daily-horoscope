@@ -19,8 +19,8 @@ const ZodiacSign = ({iconName, zodiac, navigation}) => {
 
 const styles = StyleSheet.create({
 	sign:{
-		width:120,
-		height:120,
+		width:121,
+		height:121,
 		backgroundColor:'rgba(77, 9, 132, .5)', 
 		borderRadius:30, 
 		overflow:'hidden',
